@@ -9,9 +9,15 @@
   </a>
 </p>
 <p align="center">
-Business Intelligence Engineer | AI Adoption Specialist
+  <strong>🚀 InsightAI</strong><br>
+  <sub>AI-powered Decision Intelligence Platform</sub>
 </p>
+### Snapshot
 
+- 🌍 Based in France
+- 💼 Open to Business Intelligence & AI opportunities
+- 🚀 Building **InsightAI**
+- 🎯 Mission: **From Data to Decisions**
 <p align="center">
 Building <strong>InsightAI</strong>: An AI-powered Decision Intelligence Platform
 </p>
@@ -47,6 +53,19 @@ I'm currently building **InsightAI**, an AI-powered Decision Intelligence Platfo
 Every project I build is another step toward making data more practical, accessible, and valuable for real business use.
 
 ### 🚀 Building Now
+
+## GitHub Dashboard
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ObikunleJoshua&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ObikunleJoshua&layout=compact&theme=transparent&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=ObikunleJoshua&theme=transparent&hide_border=true"/>
+</p>
+
 ### 📊 GitHub Overview
 
 <p align="center">
@@ -88,16 +107,19 @@ Every project I build is another step toward making data more practical, accessi
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-### ⭐ Featured Projects
+## Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🚀 **InsightAI** | AI-powered Decision Intelligence Platform *(In Development)* |
-| 📊 **Retail Sales Analytics** | Interactive dashboards and KPI reporting |
-| 🛒 **Customer Segmentation** | Data-driven customer insights |
-| 💊 **Pharmaceutical Analytics** | Sales and performance reporting |
-| 🤖 **AI Reporting** | Intelligent reporting and automation |
+<p align="center">
 
+<a href="https://github.com/ObikunleJoshua/InsightAI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ObikunleJoshua&repo=InsightAI&theme=transparent&hide_border=true"/>
+</a>
+
+<a href="https://github.com/ObikunleJoshua/Amazon-Sales-Performance-Analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ObikunleJoshua&repo=Amazon-Sales-Performance-Analysis&theme=transparent&hide_border=true"/>
+</a>
+
+</p>
 ### 🌱 Currently Learning
 
 - Decision Intelligence
@@ -122,4 +144,12 @@ Every project I build is another step toward making data more practical, accessi
 
 > **"From Data to Decisions."**
 
-⭐ Creator of **InsightAI**
+---
+
+<p align="center">
+
+<b>InsightAI</b>
+
+<i>From Data to Decisions.</i>
+
+</p>
