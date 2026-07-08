@@ -1,4 +1,5 @@
 <h2 align="center">Hi, I'm Joshua OBIKUNLE!👋</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=5F0CF7&width=700&height=60&lines=Building+InsightAI;Business+Intelligence+Engineer;AI+Adoption+Specialist;AI-powered+Decision+Intelligence;Power+BI+%E2%80%A2+SQL+%E2%80%A2+Python;From+Data+to+Decisions.)](https://git.io/typing-svg)
 
 <p align="center">
 Business Intelligence Engineer | AI Adoption Specialist
@@ -32,14 +33,23 @@ Building <strong>InsightAI</strong>: An AI-powered Decision Intelligence Platfor
 
 I enjoy solving business problems with data.
 
-My work combines **Business Intelligence**, **Data Analytics**, and **Artificial Intelligence** to help organizations understand what's happening, why it's happening, and what they should do next.
+My work combines **Business Intelligence**, **Data Analytics** and **Artificial Intelligence** to help organizations understand what's happening, why it's happening and what they should do next.
 
 I'm currently building **InsightAI**, an AI-powered Decision Intelligence Platform that helps businesses move beyond dashboards through intelligent insights, recommendations, and data-driven decision-making.
 
 Every project I build is another step toward making data more practical, accessible, and valuable for real business use.
 
 ### 🚀 Building Now
+### 📊 GitHub Overview
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ObikunleJoshua&theme=github-dark&hide_border=true"/>
+</p>
 
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ObikunleJoshua&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ObikunleJoshua&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 - 🚀 InsightAI – AI-powered Decision Intelligence Platform
 - 📊 Interactive Power BI Dashboards
 - 🤖 AI Adoption Solutions for Businesses
@@ -95,6 +105,11 @@ Every project I build is another step toward making data more practical, accessi
 <https://www.linkedin.com/in/joshua-obikunle-1b8739111/>
 
 ---
+### 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ObikunleJoshua&theme=github-dark&hide_border=true"/>
+</p>
 
 > **"From Data to Decisions."**
 
