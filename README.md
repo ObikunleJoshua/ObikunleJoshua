@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Obikunle Joshua! 👋</h1>
+<h1 align="center">Hi, I'm Joshua  Obikunle ! 👋</h1>
 
 <p align="center">
 <strong>Business Intelligence Engineer | AI Adoption Specialist</strong>
 </p>
 
 <p align="center">
-Building <strong>InsightAI</strong> — An AI-powered Decision Intelligence Platform
+Building <strong>InsightAI</strong> : An AI-powered Decision Intelligence Platform
 </p>
 
 <p align="center">
