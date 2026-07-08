@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Joshua OBIKUNLE!👋</h2>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=5F0CF7&width=700&height=60&lines=Building+InsightAI;Business+Intelligence+Engineer;AI+Adoption+Specialist;AI-powered+Decision+Intelligence;Power+BI+%E2%80%A2+SQL+%E2%80%A2+Python;From+Data+to+Decisions.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=5F0CF7&width=700&height=60&lines=Building+InsightAI;Business+Intelligence+Engineer;AI+Adoption+Specialist;AI-powered+Decision+Intelligence;Power+BI+%E2%80%A2+SQL+%E2%80%A2+Python;From+Data+to+Decisions." alt="Typing SVG" /></a>
 
 <p align="center">
 Business Intelligence Engineer | AI Adoption Specialist
