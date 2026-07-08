@@ -1,93 +1,93 @@
-<h1 align="center">Hi 👋, I'm Joshua Obikunle</h1>
-
-<h3 align="center">
-Business Intelligence & AI Adoption Specialist
-</h3>
+<h1 align="center">Hi, I'm Obikunle Joshua! 👋</h1>
 
 <p align="center">
-Building <b>InsightAI</b> : An AI-powered Decision Intelligence Platform
+<strong>Business Intelligence Engineer | AI Adoption Specialist</strong>
 </p>
 
 <p align="center">
-<i>Turning Data Into Intelligent Decisions.</i>
+Building <strong>InsightAI</strong> — An AI-powered Decision Intelligence Platform
 </p>
 
----
+<p align="center">
+<i>From Data to Decisions.</i>
+</p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/joshua-obikunle-1b8739111/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<a href="mailto:joshuaobikunle94@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Directly-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="mailto:joshuaobikunle94@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+<a href="https://www.linkedin.com/in/joshua-obikunle-1b8739111/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/ObikunleJoshua">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-# 🚀 About Me
+## 👨🏽‍💻 About Me
 
-I am passionate about helping organizations transform raw data into strategic decisions through analytics, business intelligence, and Artificial Intelligence.
+I build data solutions that help businesses make better decisions.
 
-Currently, I am building **InsightAI**, an AI-powered Decision Intelligence Platform that combines Business Intelligence, AI, automation, and data storytelling to help businesses make smarter decisions faster.
+My work combines **Business Intelligence**, **Data Analytics** and **Artificial Intelligence** to transform raw data into insights, recommendations, and practical business value.
 
-I enjoy solving real business problems using modern analytics tools and building solutions that create measurable impact.
+I'm currently building **InsightAI**, an AI-powered Decision Intelligence Platform designed to help organizations move beyond dashboards and toward smarter, data-driven decisions.
 
----
-
-# 🎯 Current Focus
-
-- 🚀 Building **InsightAI**
-- 📊 Developing Business Intelligence dashboards
-- 🤖 Driving AI adoption in business workflows
-- 🧠 Exploring Machine Learning and Decision Intelligence
-- 📈 Transforming complex datasets into business value
+Outside of building projects, I enjoy learning new technologies, improving business processes with AI and creating solutions that solve real-world problems.
 
 ---
 
-# 🛠️ Core Technologies
+## 🚀 Building Now
 
-### Data Analytics
+- 🚀 InsightAI – AI-powered Decision Intelligence Platform
+- 📊 Interactive Power BI Dashboards
+- 🐍 Python Data Analytics Applications
+- 🤖 AI Adoption Solutions for Businesses
+- 📈 Decision Intelligence Workflows
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+---
+
+## 🛠 Tech Stack
+
+### Analytics
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Programming
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### Databases
+### Database
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-# ⭐ Featured Projects
+## ⭐ Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| 🚀 InsightAI | AI-powered Decision Intelligence Platform *(In Development)* |
-| 📊 Retail Sales Analytics | Business performance analysis and dashboarding |
-| 🏥 Pharmaceutical Analytics | Sales insights and reporting |
-| 🛒 Customer Segmentation | Customer behavior analytics |
-| 📈 Sales Performance Dashboard | Power BI & SQL business intelligence |
+| 🚀 InsightAI | AI-powered Decision Intelligence Platform *(In Progress)* |
+| 📊 Sales Analytics | Interactive dashboards and business reporting |
+| 🛒 Retail Analytics | Sales performance and customer insights |
+| 💊 Pharmaceutical Analytics | Business intelligence and reporting |
+| 🤖 AI Reporting | AI-assisted reporting and automation |
 
 ---
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
 - Decision Intelligence
 - AI for Business
@@ -97,22 +97,15 @@ I enjoy solving real business problems using modern analytics tools and building
 
 ---
 
-# 📫 Let's Connect
+## 📫 Connect With Me
 
-📧 **Email**
+📧 **Email:** joshuaobikunle94@gmail.com
 
-> joshuaobikunle94@gmail.com
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/joshua-obikunle094/
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/joshua-obikunle-1b8739111/
 
 ---
 
-### 💡 Personal Philosophy
+> **"From Data to Decisions."**
 
-> *"Data becomes valuable only when it drives intelligent decisions."*
-
----
-
-⭐ **Creator of InsightAI**
+⭐ Creator of **InsightAI**
