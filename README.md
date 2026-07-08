@@ -1,4 +1,8 @@
-<h2 align="center">Hi, I'm Joshua OBIKUNLE!👋</h2>
+<h2 align="center">Hi, I'm Joshua OBIKUNLE!</h2>
+
+<p align="center">
+Business Intelligence Engineer • AI Adoption Specialist
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -11,19 +15,6 @@
 <p align="center">
   <strong>🚀 InsightAI</strong><br>
   <sub>AI-powered Decision Intelligence Platform</sub>
-</p>
-### Snapshot
-
-- 🌍 Based in France
-- 💼 Open to Business Intelligence & AI opportunities
-- 🚀 Building **InsightAI**
-- 🎯 Mission: **From Data to Decisions**
-<p align="center">
-Building <strong>InsightAI</strong>: An AI-powered Decision Intelligence Platform
-</p>
-
-<p align="center">
-<i>From Data to Decisions.</i>
 </p>
 
 <p align="center">
@@ -42,17 +33,23 @@ Building <strong>InsightAI</strong>: An AI-powered Decision Intelligence Platfor
 
 ---
 
-### 👨🏽‍💻 About Me
+### About Me
 
-I enjoy solving business problems with data.
+I build data solutions that help businesses make better decisions.
 
-My work combines **Business Intelligence**, **Data Analytics** and **Artificial Intelligence** to help organizations understand what's happening, why it's happening and what they should do next.
+My focus is on combining **Business Intelligence**, **Data Analytics** and **Artificial Intelligence** to transform raw data into meaningful insights and practical business solutions.
 
-I'm currently building **InsightAI**, an AI-powered Decision Intelligence Platform that helps businesses move beyond dashboards through intelligent insights, recommendations, and data-driven decision-making.
+I'm currently building **InsightAI**, an AI-powered Decision Intelligence Platform that helps organizations move beyond dashboards toward intelligent, data-driven decision-making.
 
-Every project I build is another step toward making data more practical, accessible, and valuable for real business use.
+Whether I'm designing Power BI dashboards, writing SQL or building Python applications, my goal is always the same—turning data into decisions.
+### Snapshot
 
-### 🚀 Building Now
+- 🌍 Based in France
+- 💼 Open to Business Intelligence & AI opportunities
+- 🚀 Building **InsightAI**
+- 🎯 Mission: **From Data to Decisions**
+
+### Current Focus
 
 ## GitHub Dashboard
 
@@ -64,18 +61,6 @@ Every project I build is another step toward making data more practical, accessi
 
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=ObikunleJoshua&theme=transparent&hide_border=true"/>
-</p>
-
-### 📊 GitHub Overview
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=ObikunleJoshua&theme=github-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ObikunleJoshua&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ObikunleJoshua&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 - 🚀 InsightAI – AI-powered Decision Intelligence Platform
@@ -142,7 +127,21 @@ Every project I build is another step toward making data more practical, accessi
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ObikunleJoshua&theme=github-dark&hide_border=true"/>
 </p>
 
-> **"From Data to Decisions."**
+---
+
+<p align="center">
+
+<strong>InsightAI</strong>
+
+<br>
+
+<i>From Data to Decisions.</i>
+
+<br><br>
+
+Thanks for stopping by 👋
+
+</p>
 
 ---
 
