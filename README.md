@@ -134,20 +134,12 @@ Whether I'm designing Power BI dashboards, writing SQL or building Python applic
 <strong>InsightAI</strong>
 <br>
 <i>From Data to Decisions.</i>
-
 <br><br>
 Thanks for stopping by 👋
 </p>
-
 ---
-
 <p align="center">
-
 <b>InsightAI</b>
-<p align="center">
-  <img src="assets/insightai-banner.png" alt="InsightAI Banner" />
-</p>
 
 <i>From Data to Decisions.</i>
-
 </p>
