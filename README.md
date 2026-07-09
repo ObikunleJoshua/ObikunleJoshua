@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Joshua OBIKUNLE!</h2>
 
 <p align="center">
-Business Intelligence Engineer • AI Adoption Specialist
+Business Intelligence Engineer | AI Adoption Specialist
 </p>
 
 <p align="center">
@@ -144,6 +144,9 @@ Thanks for stopping by 👋
 <p align="center">
 
 <b>InsightAI</b>
+<p align="center">
+  <img src="assets/insightai-banner.png" alt="InsightAI Banner" />
+</p>
 
 <i>From Data to Decisions.</i>
 
