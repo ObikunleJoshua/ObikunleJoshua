@@ -137,4 +137,3 @@ Whether I'm designing Power BI dashboards, writing SQL or building Python applic
 <br><br>
 Thanks for stopping by 👋
 </p>
----
