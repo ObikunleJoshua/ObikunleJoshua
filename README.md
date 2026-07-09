@@ -132,15 +132,11 @@ Whether I'm designing Power BI dashboards, writing SQL or building Python applic
 <p align="center">
 
 <strong>InsightAI</strong>
-
 <br>
-
 <i>From Data to Decisions.</i>
 
 <br><br>
-
 Thanks for stopping by 👋
-
 </p>
 
 ---
