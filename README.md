@@ -138,8 +138,3 @@ Whether I'm designing Power BI dashboards, writing SQL or building Python applic
 Thanks for stopping by 👋
 </p>
 ---
-<p align="center">
-<b>InsightAI</b>
-
-<i>From Data to Decisions.</i>
-</p>
